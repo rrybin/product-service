@@ -42,4 +42,4 @@ jobs:
               with:
                 context: .
                 push: true
-                tags: cicdhomework/productservice:latest
+                tags: ci_cd_docker/productservice:latest
