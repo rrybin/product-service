@@ -42,4 +42,6 @@ jobs:
               with:
                 context: .
                 push: true
-                tags: slayervood86/ci_cd_docker:latest
+                tags: 
+                    - slayervood86/ci_cd_docker:latest
+                    - slayervood86/ci_cd_docker:1.0.0
